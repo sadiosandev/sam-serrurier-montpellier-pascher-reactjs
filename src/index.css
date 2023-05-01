@@ -11,7 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
+.menu-links-container.navbar-nav {
+  align-items: center;
+}
 .app-navbar-container {
   width: 100%;
   display: flex;
@@ -532,6 +534,9 @@ code {
 }
 .footer-contact-cta:hover {
   color: #DD3142 !important;
+}
+#page-container {
+  padding: 50px 0;
 }
 
 /* Responsive */

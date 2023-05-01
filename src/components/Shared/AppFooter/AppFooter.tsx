@@ -28,22 +28,22 @@ const AppFooter = () => {
                                 <div className="footer-section-container footer-brand-section">
                                     <ul className="footerapp-services-ul">
                                         <li>
-                                            <NavLink to="/#" className="footer-service-item-link">Dépannage d'urgence</NavLink>
+                                            <NavLink to="/urgence-depannage-serrurier-montpellier" className="footer-service-item-link">Dépannage d'urgence</NavLink>
                                         </li>
                                         <li>
-                                            <NavLink to="/#" className="footer-service-item-link">Portes blindées</NavLink>
+                                            <NavLink to="/portes-blindees-serrurier-montpellier" className="footer-service-item-link">Portes blindées</NavLink>
                                         </li>
                                         <li>
-                                            <NavLink to="/#" className="footer-service-item-link">Protection contre le vol</NavLink>
+                                            <NavLink to="/protection-contre-le-vol-serrurier-montpellier" className="footer-service-item-link">Protection contre le vol</NavLink>
                                         </li>
                                         <li>
-                                            <NavLink to="/#" className="footer-service-item-link">Pose Serrure</NavLink>
+                                            <NavLink to="/pose-serrure-serrurier-montpellier" className="footer-service-item-link">Pose Serrure</NavLink>
                                         </li>
                                         <li>
-                                            <NavLink to="/#" className="footer-service-item-link">Remplacement de cylindre</NavLink>
+                                            <NavLink to="/remplacement-cylindre-serrurier-montpellier" className="footer-service-item-link">Remplacement de cylindre</NavLink>
                                         </li>
                                         <li>
-                                            <NavLink to="/#" className="footer-service-item-link">Changement de serrure 3 points</NavLink>
+                                            <NavLink to="/changement-serrure-3-points-serrurier-montpellier" className="footer-service-item-link">Changement de serrure 3 points</NavLink>
                                         </li>
                                     </ul>
                                 </div>

@@ -97,51 +97,39 @@ const Homepage = () => {
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
-                                    <Link to="/#" className="app-services-item-container">
+                                    <Link to="/pose-serrure-serrurier-montpellier" className="app-services-item-container">
                                         <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
                                         <strong className="app-services-item-label">Pose Serrure</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
-                                    <Link to="/#" className="app-services-item-container">
+                                    <Link to="/remplacement-cylindre-serrurier-montpellier" className="app-services-item-container">
                                         <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
                                         <strong className="app-services-item-label">Remplacement de cylindre</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
-                                    <Link to="/#" className="app-services-item-container">
+                                    <Link to="/protection-contre-le-vol-serrurier-montpellier" className="app-services-item-container">
                                         <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
                                         <strong className="app-services-item-label">Protection contre le VOL</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
-                                    <Link to="/#" className="app-services-item-container">
+                                    <Link to="/portes-blindees-serrurier-montpellier" className="app-services-item-container">
                                         <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
-                                        <strong className="app-services-item-label">Remplacement de cylindre</strong>
+                                        <strong className="app-services-item-label">Ouverture de portes blindées</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
-                                    <Link to="/#" className="app-services-item-container">
-                                        <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
-                                        <strong className="app-services-item-label">Installation de portes blindées</strong>
-                                    </Link>
-                                </div>
-                                <div className="col-lg-4 app-services-col">
-                                    <Link to="/#" className="app-services-item-container">
+                                    <Link to="/changement-serrure-3-points-serrurier-montpellier" className="app-services-item-container">
                                         <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
                                         <strong className="app-services-item-label">Changement de serrure 3 points</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
-                                    <Link to="/#" className="app-services-item-container">
+                                    <Link to="/urgence-depannage-serrurier-montpellier" className="app-services-item-container">
                                         <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
-                                        <strong className="app-services-item-label">Urgence Serrurier</strong>
-                                    </Link>
-                                </div>
-                                <div className="col-lg-4 app-services-col">
-                                    <Link to="/#" className="app-services-item-container">
-                                        <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
-                                        <strong className="app-services-item-label">Dépannage Serrurier</strong>
+                                        <strong className="app-services-item-label">Urgence Dépannage Serrurier</strong>
                                     </Link>
                                 </div>
                             </div>

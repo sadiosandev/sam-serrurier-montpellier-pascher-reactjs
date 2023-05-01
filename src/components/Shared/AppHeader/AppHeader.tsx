@@ -12,7 +12,7 @@ const AppHeader = () => {
         <Navbar collapseOnSelect expand="lg" bg="light" variant="light" className="app-navbar">
             <Container className="app-navbar-parent-container">
                 <div className="app-header-first-level">
-                    <Navbar.Brand href="#home" className="app-brand" >
+                    <Navbar.Brand href="/" className="app-brand" >
                         <img src={AppLogo} alt="Serrurier Montpellier" className="app-brand-img" />
                         <span className="app-name">Serrurier Montpellier</span>
                     </Navbar.Brand>
@@ -27,12 +27,13 @@ const AppHeader = () => {
                     <Navbar.Collapse id="responsive-navbar-nav" className="app-navbar-collapse">
                         <div className="app-navbar-container">
                             <Nav className="menu-links-container">
-                                <Nav.Link className="app-navbar-link" href="#features" title="Dépannage d'urgence">Dépannage d'urgence</Nav.Link>
-                                <Nav.Link className="app-navbar-link" href="#pricing">Portes blindées</Nav.Link>
-                                <Nav.Link className="app-navbar-link" href="#pricing">Protection contre le vol</Nav.Link>
-                                <Nav.Link className="app-navbar-link" href="#pricing">Pose Serrure</Nav.Link>
-                                <Nav.Link className="app-navbar-link" href="#pricing">Remplacement de cylindre</Nav.Link>
-                                <Nav.Link className="app-navbar-link" href="#pricing">Changement de serrure 3 points</Nav.Link>
+                            <Nav.Link className="app-navbar-link" href="/" title="Accueil">Accueil</Nav.Link>
+                                <Nav.Link className="app-navbar-link" href="/urgence-depannage-serrurier-montpellier" title="Dépannage d'urgence">Dépannage d'urgence</Nav.Link>
+                                <Nav.Link className="app-navbar-link" href="/portes-blindees-serrurier-montpellier" title="Portes blindées">Portes blindées</Nav.Link>
+                                <Nav.Link className="app-navbar-link" href="/protection-contre-le-vol-serrurier-montpellier" title="Protection contre le vol">Protection contre le vol</Nav.Link>
+                                <Nav.Link className="app-navbar-link" href="/pose-serrure-serrurier-montpellier" title="Pose serrure">Pose Serrure</Nav.Link>
+                                <Nav.Link className="app-navbar-link" href="/remplacement-cylindre-serrurier-montpellier" title="Remplacement cylindre">Remplacement de cylindre</Nav.Link>
+                                <Nav.Link className="app-navbar-link" href="/changement-serrure-3-points-serrurier-montpellier" title="Changement de serrure 3 points">Changement de serrure 3 points</Nav.Link>
                             </Nav>
                             {/* <Nav>
                                 <Button href="tel:0644962401" variant="danger" className="app-navbar-link phone-cta-btn">
