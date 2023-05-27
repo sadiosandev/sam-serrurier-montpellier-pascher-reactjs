@@ -162,6 +162,7 @@ code {
 }
 #app-services {
   padding: 50px 0;
+  position: relative;
 }
 .section-title {
   font-family: 'Poppins';
@@ -242,6 +243,7 @@ code {
 }
 #location-price-section {
   padding: 40px 0;
+  position: relative;
 }
 .location-pricing-title {
   font-family: 'Poppins';
@@ -563,6 +565,37 @@ code {
   .other-navbar-infos-container button {
       background: #dc3545 !important;
   }
+  #location-price-section img.badge-ouverture-porte {
+    width: 30% !important;
+    top: 7% !important;
+    left: 2% !important;
+  }
+  #app-services .badge-ouverture-porte {
+    width: 35% !important;
+  }
 }
 
 /* End Responsive */
+
+#app-services .badge-ouverture-porte {
+  width: 14%;
+  position: absolute;
+  right: 2%;
+  bottom: 2%;
+}
+#location-price-section img.badge-ouverture-porte {
+  width: 14%;
+  position: absolute;
+  top: 13%;
+  left: 6%;
+  transform: rotate(-37deg);
+}
+.badge-container {
+  text-align: center;
+  padding: 20px 0;
+}
+.image-and-text-content img.badge-ouverture-porte,
+#good-seo-section img.badge-ouverture-porte,
+#app-services .badge-ouverture-porte {
+  transform: rotate(-37deg);
+}

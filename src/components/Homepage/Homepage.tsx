@@ -15,6 +15,7 @@ import ChangementCylindre from '../../assets/images/changement-cylindre.jpeg';
 import PoseSerrure from '../../assets/images/pose-serrure.jpeg';
 import PorteBlindee from '../../assets/images/porte-blindee.jpeg';
 import Serrure3Points from '../../assets/images/serrure-3points.jpeg';
+import Badge from '../../assets/images/badge_serrurier.png';
 
 const Homepage = () => {
     return (
@@ -74,6 +75,7 @@ const Homepage = () => {
                 </div>
             </div>
             <section id="app-services">
+                <img src={Badge} alt="Serrurier pas cher à Montpellier" className="badge-ouverture-porte" />
                 <div className="app-services-container container">
                     <div className="app-services-body">
                         <h2 className="section-title">Urgence Dépannage Serrurier Montpellier pas cher</h2>
@@ -167,6 +169,7 @@ const Homepage = () => {
                 </div>
             </section>
             <section id="location-price-section">
+                <img src={Badge} alt="Serrurier pas cher à Montpellier" className="badge-ouverture-porte" />
                 <div className="container location-price-section-container">
                     <div className="row location-price-section-row">
                         <div className="col-lg-6 location-map-col">
@@ -323,6 +326,9 @@ const Homepage = () => {
                                     à votre disposition, pour vous dépanner et vous assister rapidement.
                                 </p>
                             </div>
+                            <div className="badge-container">
+                                <img src={Badge} alt="Serrurier pas cher à Montpellier" className="badge-ouverture-porte" />
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -352,6 +358,9 @@ const Homepage = () => {
                                             Ne laissez pas une porte claquée gâcher votre journée. 
                                             Contactez-nous dès maintenant pour obtenir une assistance rapide et professionnelle.
                                         </p>
+                                        <div className="badge-container">
+                                            <img src={Badge} alt="Serrurier pas cher à Montpellier" className="badge-ouverture-porte" />
+                                        </div>
                                         <div className="row app-cta-btn-in-section-row">
                                             <div className="col-lg-6 offset-lg-3 app-cta-btn-in-section-col">
                                                 <Button href="tel:0644962401" variant="danger" className="app-navbar-link phone-cta-btn">
@@ -380,6 +389,9 @@ const Homepage = () => {
                                             Ne laissez pas une serrure défectueuse vous gâcher votre journée. 
                                             Contactez-nous dès maintenant pour obtenir une assistance rapide et professionnelle.
                                         </p>
+                                        <div className="badge-container">
+                                            <img src={Badge} alt="Serrurier pas cher à Montpellier" className="badge-ouverture-porte" />
+                                        </div>
                                         <div className="row app-cta-btn-in-section-row">
                                             <div className="col-lg-6 offset-lg-3 app-cta-btn-in-section-col">
                                                 <Button href="tel:0644962401" variant="danger" className="app-navbar-link phone-cta-btn">
@@ -419,6 +431,9 @@ const Homepage = () => {
                                             Vous voulez renforcer la sécurité de vos portes ?
                                             Contactez-nous dès maintenant pour obtenir une assistance rapide et professionnelle.
                                         </p>
+                                        <div className="badge-container">
+                                            <img src={Badge} alt="Serrurier pas cher à Montpellier" className="badge-ouverture-porte" />
+                                        </div>
                                         <div className="row app-cta-btn-in-section-row">
                                             <div className="col-lg-6 offset-lg-3 app-cta-btn-in-section-col">
                                                 <Button href="tel:0644962401" variant="danger" className="app-navbar-link phone-cta-btn">
@@ -445,6 +460,9 @@ const Homepage = () => {
                                             Vous voulez sécuriser votre maison ou entreprise ?
                                             Contactez-nous dès maintenant pour obtenir une assistance rapide et professionnelle.
                                         </p>
+                                        <div className="badge-container">
+                                            <img src={Badge} alt="Serrurier pas cher à Montpellier" className="badge-ouverture-porte" />
+                                        </div>
                                         <div className="row app-cta-btn-in-section-row">
                                             <div className="col-lg-6 offset-lg-3 app-cta-btn-in-section-col">
                                                 <Button href="tel:0644962401" variant="danger" className="app-navbar-link phone-cta-btn">
@@ -482,6 +500,9 @@ const Homepage = () => {
                                             Vous voulez renforcer la sécurité de vos portes ?
                                             Contactez-nous dès maintenant pour obtenir une assistance rapide et professionnelle.
                                         </p>
+                                        <div className="badge-container">
+                                            <img src={Badge} alt="Serrurier pas cher à Montpellier" className="badge-ouverture-porte" />
+                                        </div>
                                         <div className="row app-cta-btn-in-section-row">
                                             <div className="col-lg-6 offset-lg-3 app-cta-btn-in-section-col">
                                                 <Button href="tel:0644962401" variant="danger" className="app-navbar-link phone-cta-btn">
