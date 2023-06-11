@@ -94,43 +94,43 @@ const Homepage = () => {
                             <div className="row app-services-row">
                                 <div className="col-lg-4 app-services-col">
                                     <Link to="/#" className="app-services-item-container">
-                                        <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
-                                        <strong className="app-services-item-label">Ouverture de portes claquées</strong>
+                                        <img src={AppServiceIcon} alt="Ouverture de Porte Fermée ou avec serrure simple" className="app-services-icon-img" />
+                                        <strong className="app-services-item-label">Ouverture de portes fermées</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
                                     <Link to="/pose-serrure-serrurier-montpellier" className="app-services-item-container">
-                                        <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
+                                        <img src={AppServiceIcon} alt="Ouverture de Porte Fermée ou avec serrure simple" className="app-services-icon-img" />
                                         <strong className="app-services-item-label">Pose Serrure</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
                                     <Link to="/remplacement-cylindre-serrurier-montpellier" className="app-services-item-container">
-                                        <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
+                                        <img src={AppServiceIcon} alt="Ouverture de Porte Fermée ou avec serrure simple" className="app-services-icon-img" />
                                         <strong className="app-services-item-label">Remplacement de cylindre</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
                                     <Link to="/protection-contre-le-vol-serrurier-montpellier" className="app-services-item-container">
-                                        <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
+                                        <img src={AppServiceIcon} alt="Ouverture de Porte Fermée ou avec serrure simple" className="app-services-icon-img" />
                                         <strong className="app-services-item-label">Protection contre le VOL</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
                                     <Link to="/portes-blindees-serrurier-montpellier" className="app-services-item-container">
-                                        <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
+                                        <img src={AppServiceIcon} alt="Ouverture de Porte Fermée ou avec serrure simple" className="app-services-icon-img" />
                                         <strong className="app-services-item-label">Ouverture de portes blindées</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
                                     <Link to="/changement-serrure-3-points-serrurier-montpellier" className="app-services-item-container">
-                                        <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
+                                        <img src={AppServiceIcon} alt="Ouverture de Porte Fermée ou avec serrure simple" className="app-services-icon-img" />
                                         <strong className="app-services-item-label">Changement de serrure 3 points</strong>
                                     </Link>
                                 </div>
                                 <div className="col-lg-4 app-services-col">
                                     <Link to="/urgence-depannage-serrurier-montpellier" className="app-services-item-container">
-                                        <img src={AppServiceIcon} alt="Ouverture de porte claquée ou avec serrure simple" className="app-services-icon-img" />
+                                        <img src={AppServiceIcon} alt="Ouverture de Porte Fermée ou avec serrure simple" className="app-services-icon-img" />
                                         <strong className="app-services-item-label">Urgence Dépannage Serrurier</strong>
                                     </Link>
                                 </div>
@@ -188,7 +188,7 @@ const Homepage = () => {
                                     <div className="col-lg-12 pricing-table-item-col">
                                         <div className="pricing-table-body-content">
                                             <h5 className="pricing-table-item-label">
-                                                <strong>Ouverture de portes claquées</strong>
+                                                <strong>Ouverture de portes fermées</strong>
                                             </h5>
                                             <div className="pricing-table-value-container">
                                                 <div className="pricing-table-value-content">
@@ -294,7 +294,7 @@ const Homepage = () => {
             </section>
             <section id="good-seo-section">
                 <div className="container good-seo-section-container">
-                    <h2 className="good-seo-section-title">Dépannage urgence pour porte claquée et clef à l'intérieur sur Montpellier</h2>
+                    <h2 className="good-seo-section-title">Dépannage urgence pour Porte Fermée et clef à l'intérieur sur Montpellier</h2>
                     <p className="good-seo-intro">
                         Vous avez besoin d'un <strong>serrurier pas cher sur Montpellier</strong> &nbsp;
                         pour toute intervention à domicile, perte de clés, effraction ou une panne 
@@ -341,21 +341,21 @@ const Homepage = () => {
                             <div className="row image-and-text-row">
                                 <div className="col-lg-6 image-col">
                                     <div className="image-container">
-                                        <img src={PorteClaquee} alt="Serrurier pas cher Montpellier : Ouverture de portes claquées" className="image-content-item" />
+                                        <img src={PorteClaquee} alt="Serrurier pas cher Montpellier : Ouverture de portes fermées" className="image-content-item" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6 text-col">
                                     <div className="text-container">
-                                        <h4 className="in-section-title">Porte Claquée</h4>
+                                        <h4 className="in-section-title">Porte Fermée</h4>
                                         <p>
-                                            Vous avez une <strong>porte claquée</strong> et cela peut être stressant. 
+                                            Vous avez une <strong>Porte Fermée</strong> et cela peut être stressant. 
                                             Que vous soyez à la maison ou au bureau cela peut 
                                             perturber votre routine quotidienne. Heureusement, 
                                             vous pouvez compter sur <strong>Serrurier pas cher Montpellier</strong> &nbsp;
                                             pour vous aider à résoudre ce problème rapidement et efficacement.
                                         </p>
                                         <p>
-                                            Ne laissez pas une porte claquée gâcher votre journée. 
+                                            Ne laissez pas une Porte Fermée gâcher votre journée. 
                                             Contactez-nous dès maintenant pour obtenir une assistance rapide et professionnelle.
                                         </p>
                                         <div className="badge-container">
@@ -411,7 +411,7 @@ const Homepage = () => {
                             <div className="row image-and-text-row">
                                 <div className="col-lg-6 image-col">
                                     <div className="image-container">
-                                        <img src={PoseSerrure} alt="Serrurier pas cher Montpellier : Ouverture de portes claquées" className="image-content-item" />
+                                        <img src={PoseSerrure} alt="Serrurier pas cher Montpellier : Ouverture de portes fermées" className="image-content-item" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6 text-col">
@@ -482,7 +482,7 @@ const Homepage = () => {
                             <div className="row image-and-text-row">
                                 <div className="col-lg-6 image-col">
                                     <div className="image-container">
-                                        <img src={Serrure3Points} alt="Serrurier pas cher Montpellier : Ouverture de portes claquées" className="image-content-item" />
+                                        <img src={Serrure3Points} alt="Serrurier pas cher Montpellier : Ouverture de portes fermées" className="image-content-item" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6 text-col">

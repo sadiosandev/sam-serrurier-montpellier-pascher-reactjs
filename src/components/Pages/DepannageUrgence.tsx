@@ -74,7 +74,7 @@ const DepannageUrgence = () => {
                             <div className="row image-and-text-row">
                                 <div className="col-lg-6 image-col">
                                     <div className="image-container">
-                                        <img src={DepannageUrgenceImg1} alt="Serrurier pas cher Montpellier : Ouverture de portes claquées" className="image-content-item" />
+                                        <img src={DepannageUrgenceImg1} alt="Serrurier pas cher Montpellier : Ouverture de portes fermées" className="image-content-item" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6 text-col">
@@ -106,7 +106,7 @@ const DepannageUrgence = () => {
                             <div className="row image-and-text-row">
                                 <div className="col-lg-6 image-col">
                                     <div className="image-container">
-                                        <img src={DepannageUrgenceImg2} alt="Serrurier pas cher Montpellier : Ouverture de portes claquées" className="image-content-item" />
+                                        <img src={DepannageUrgenceImg2} alt="Serrurier pas cher Montpellier : Ouverture de portes fermées" className="image-content-item" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6 text-col">
@@ -170,7 +170,7 @@ const DepannageUrgence = () => {
                             <div className="row image-and-text-row">
                                 <div className="col-lg-6 image-col">
                                     <div className="image-container">
-                                        <img src={PoseSerrure} alt="Serrurier pas cher Montpellier : Ouverture de portes claquées" className="image-content-item" />
+                                        <img src={PoseSerrure} alt="Serrurier pas cher Montpellier : Ouverture de portes fermées" className="image-content-item" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6 text-col">
@@ -235,7 +235,7 @@ const DepannageUrgence = () => {
                             <div className="row image-and-text-row">
                                 <div className="col-lg-6 image-col">
                                     <div className="image-container">
-                                        <img src={Serrure3Points} alt="Serrurier pas cher Montpellier : Ouverture de portes claquées" className="image-content-item" />
+                                        <img src={Serrure3Points} alt="Serrurier pas cher Montpellier : Ouverture de portes fermées" className="image-content-item" />
                                     </div>
                                 </div>
                                 <div className="col-lg-6 text-col">
@@ -287,7 +287,7 @@ const DepannageUrgence = () => {
                                     <div className="col-lg-12 pricing-table-item-col">
                                         <div className="pricing-table-body-content">
                                             <h5 className="pricing-table-item-label">
-                                                <strong>Ouverture de portes claquées</strong>
+                                                <strong>Ouverture de portes fermées</strong>
                                             </h5>
                                             <div className="pricing-table-value-container">
                                                 <div className="pricing-table-value-content">
