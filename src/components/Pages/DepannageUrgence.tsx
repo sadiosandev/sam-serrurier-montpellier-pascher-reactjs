@@ -292,11 +292,11 @@ const DepannageUrgence = () => {
                                             <div className="pricing-table-value-container">
                                                 <div className="pricing-table-value-content">
                                                     <p>Jour</p>
-                                                    <p className="price-item">50 &euro;</p>
+                                                    <p className="price-item">55 &euro;</p>
                                                 </div>
                                                 <div className="pricing-table-value-content">
                                                     <p>Nuit/Jour Férié</p>
-                                                    <p className="price-item">75 &euro;</p>
+                                                    <p className="price-item">55 &euro;</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -313,7 +313,7 @@ const DepannageUrgence = () => {
                                                 </div>
                                                 <div className="pricing-table-value-content">
                                                     <p>Nuit/Jour Férié</p>
-                                                    <p className="price-item">150 &euro;</p>
+                                                    <p className="price-item">100 &euro;</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -326,11 +326,11 @@ const DepannageUrgence = () => {
                                             <div className="pricing-table-value-container">
                                                 <div className="pricing-table-value-content">
                                                     <p>Jour</p>
-                                                    <p className="price-item">100 &euro;</p>
+                                                    <p className="price-item">90 &euro;</p>
                                                 </div>
                                                 <div className="pricing-table-value-content">
                                                     <p>Nuit/Jour Férié</p>
-                                                    <p className="price-item">100 &euro;</p>
+                                                    <p className="price-item">90 &euro;</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -347,7 +347,7 @@ const DepannageUrgence = () => {
                                                 </div>
                                                 <div className="pricing-table-value-content">
                                                     <p>Nuit/Jour Férié</p>
-                                                    <p className="price-item">60 &euro;</p>
+                                                    <p className="price-item">40 &euro;</p>
                                                 </div>
                                             </div>
                                         </div>
